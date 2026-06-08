@@ -1,6 +1,8 @@
-# Code::Blocks temporary and binary folders
+# Code::Blocks build targets
 bin/
 obj/
 
-# Layout and user-specific settings
+# Code::Blocks project configuration files
+*.cbp
+*.depend
 *.layout
