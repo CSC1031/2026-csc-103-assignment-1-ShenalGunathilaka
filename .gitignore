@@ -1,8 +1,0 @@
-# Code::Blocks build targets
-bin/
-obj/
-
-# Code::Blocks project configuration files
-*.cbp
-*.depend
-*.layout
