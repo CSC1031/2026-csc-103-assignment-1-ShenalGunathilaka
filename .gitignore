@@ -1,0 +1,6 @@
+# Code::Blocks temporary and binary folders
+bin/
+obj/
+
+# Layout and user-specific settings
+*.layout
